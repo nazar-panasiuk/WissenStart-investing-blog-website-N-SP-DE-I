@@ -3067,6 +3067,7 @@ hero-btn {
     margin-bottom: 5px;
 }
 .h1-testimonial-active button.slick-arrow {
+    display: none !important;
     position: absolute;
     right: 90px;
     border: 0;
